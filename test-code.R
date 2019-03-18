@@ -1,2 +1,2 @@
 library(tidyverse)
-library(ggplo2)
+library(ggplot2)
